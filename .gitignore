@@ -367,3 +367,5 @@ API/appsettings.Development.json
 API/store.db
 API/store.db-shm
 API/store.db-wal
+API/appsettings.Development.json
+API/appsettings.json
